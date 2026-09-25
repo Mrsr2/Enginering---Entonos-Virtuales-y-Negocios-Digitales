@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+
+:root {
+  --foreground-rgb: 255, 255, 255;
+  --background-start-rgb: 10, 10, 10;
+  --background-end-rgb: 0, 0, 0;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: black;
+}
+
+@layer components {
+  .bento-card {
+    @apply bg-white/5 border border-white/10 rounded-3xl p-6 backdrop-blur-md transition-all duration-300 hover:border-violet-500/50 hover:bg-white/[0.07];
+  }
+
+  .glass-button {
+    @apply px-4 py-2 bg-white/10 hover:bg-white/20 border border-white/10 rounded-full text-sm font-medium transition-all active:scale-95;
+  }
+
+  .status-dot {
+    @apply w-2 h-2 rounded-full;
+  }
+}
+
+/* AI Pulse Animation */
+@keyframes pulse-ring {
+  0% { transform: scale(0.33); opacity: 0; }
+  50% { opacity: 0.5; }
+  100% { transform: scale(1); opacity: 0; }
+}
+
+.animate-pulse-ring {
+  animation: pulse-ring 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}

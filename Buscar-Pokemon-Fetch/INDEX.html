@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetch Buscar Pokémones</title>
+</head>
+
+<body>
+    <header>
+        <h1>Buscar Pokémones</h1>
+    </header>
+    <div class="wrap">
+        <div class="taps" id="taps">
+
+
+
+        </div>
+
+        <!--  1.Fetch => .them / catch-->
+        <div class="panel active" data-panel="then">
+            <h2>Fetch</h2>
+            <p><code> fetch() </code>devuelve una promesa que resuelve la peticion HTTP. Recordar convertir a
+                <code>.JSON</code>
+            </p>
+            <div class="quick-btns">
+                <button data-name="pikachu">Pikachu</button>
+                <button data-name="snporlax">Snorlax</button>
+                <button data-name="charizart">Charizart</button>
+                <button data-name="mewto">Mewto</button>
+                <button data-name="VamoACalmarno">Vamo a calmarno</button>
+                <div class="search-box">
+                    <input type="text" id="inputThen" placeholder="Ejemplo: Vamo a Calmarno">
+                    <button class="run" id="buttonThen">Buscar</button>
+                </div>
+                <div class="status" id="statusThen"></div>
+                <div class="result" id="resultThen">
+                    <img src="" alt="" id="imgThen">
+                    <div id="nameThen"></div>
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

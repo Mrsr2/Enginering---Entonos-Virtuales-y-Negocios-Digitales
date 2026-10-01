@@ -3,9 +3,9 @@
 //=============== TAPS =========== Chocolate 
 const tabDefs = [
     { key: 'then', label: 'Fetch + then' },
-    { key: 'await', label: 'Fetch + async' },
+    { key: 'await', label: 'Await + async' },
     { key: 'all', label: 'Promise.all' },
-    { key: 'cache', label: 'Fetch + promise' },
+    { key: 'cache', label: 'Cache + promise' },
 
 ];
 const tabs = document.getElementById('tabs');

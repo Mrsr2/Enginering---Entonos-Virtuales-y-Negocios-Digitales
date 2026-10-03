@@ -1,0 +1,98 @@
+:root {
+    --bg: #200000;
+    --panel: #320000;
+    --text: #ffffff;
+    --muted: #920000;
+    --accent: #a51818;
+    --ok: #2e8d11;
+    --err: #f72828;
+    --border: #ff0101;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2rem 1rem 4rem;
+}
+
+header {
+    max-width: 900px;
+    margin: 0 auto 1.5rem;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--panel);
+}
+
+h1 {
+    margin: 0 0 .4rem;
+    font-size: clamp(1.5rem, 4vw, 2.1rem);
+}
+
+.wrap {
+    max-width: 900px;
+    margin: 0 auto;
+    display: grid;
+    gap: 1.5rem;
+}
+
+.tabs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.panel {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 15px;
+    display: none;
+}
+
+.panel.active {
+    display: block;
+}
+
+.search-box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin: 1rem 0;
+}
+
+input[type="text"] {
+    flex: 1;
+    min-width: 180px;
+    padding: 0.6rem 1rem;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    font-size: 0.9rem;
+}
+
+button.run {
+    background: var(--accent);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 0.5rem 1rem;
+    border-radius: 999px;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 0.75rem;
+}
+
+.tab-btn {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 999px;
+}

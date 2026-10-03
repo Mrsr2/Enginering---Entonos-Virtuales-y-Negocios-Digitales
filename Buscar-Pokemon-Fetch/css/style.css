@@ -26,13 +26,14 @@ header{
     padding: 40px;
     border:9px solid var(--text);
     border-radius: 29px;
+    background: var(--panel);
 }
 h1{
     margin: 0 0 0.4rem;
     font-family: clamp(1.5rem, 4vw, 2.1rem);
 }
 .wrap{
-    max: width 1200px;
+    max-width: 1200px;
     margin: 0 auto;
     display: grid;
     gap: 1.5rem;
@@ -44,8 +45,8 @@ h1{
     justify-content: center;
     gap: 0.5rem;
 }
-.panel{
-    background:var(--panel)
+.panel.active{
+    display:block;
 ;
 border: 1px solid var(--border);
 border-radius: 25px;
@@ -56,12 +57,61 @@ display:none;
     flex-wrap: wrap;
     gap: 0.6 rem;
     margin: 1rem 0;
+    color: #eb0d0d;
 
 }
-input[type="text"]{
+input[type="text"] {
     flex: 1;
-    min-width: 200px;
-    border-radius: 20px;
+    min-width: 180px;
+    padding: 0.6rem 1rem;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    font-size: 0.9rem;
+}
 
+button.run {
+    background: var(--accent);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 0.5rem 1rem;
+    border-radius: 999px;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 0.75rem;
+}
 
+.tab-btn {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 999px;
+}
+
+.result{ display: none;
+border: 5px solid var(--border);
+background: var(--panel);
+padding: 1.2rem;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+margin-top:1rem ;
+}
+.result.show{
+    display: block;
+}
+.result.img{
+    display: block;
+    margin: 0 auto 1rem;
+    max-width: 200px;
+    image-rendering: pixelated;
+}.status{
+    margin-top: 1rem;
+}
+.status.loadig {
+    color: #daf415;
+}
+.status.success{
+    color:var(--ok)}
+.status.error{
+    color:var(--err)
 }

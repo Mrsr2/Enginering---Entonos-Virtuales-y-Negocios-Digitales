@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+   --bg: #f1f5f9;
+        --panel: #fff;
+        --text: #1095d8;
+        --accent: #1095d8;
+        --muted: #475569;
+}
+
+@media(prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+        --bg: #f1f5f9;
+        --panel: #fff;
+        --text: #1095d8;
+        --accent: #1095d8;
+        --muted: #475569;
+    }
+}
+
+:root[data-theme="dark"] {
+    --bg: #0f172a;
+    --panel: #1e293b;
+    --text: #f8fafc;
+    --accent: #1095d8;
+    --muted: #1095d8;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--bg);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--text);
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.card {
+    background: var(--panel);
+    padding: 3rem 4rem;
+    border-radius: 20px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+    text-align: center;
+    max-width: 90vw;
+}
+
+.date {
+    font-size: clamp(0.9rem, 3vw, 1.5rem); /* investigar esto */
+    color: var(--muted);
+    text-transform: capitalize;
+    margin-bottom: 1rem;
+    letter-spacing: 0.5px;
+}
+
+.clock {
+    font-size: clamp(6.5rem, 19vw, 9rem);
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-variant-numeric: tabular-nums;
+    color: var(--accent);
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.clock .ampm {
+    font-size: clamp(1rem, 9vw, 1.5rem);
+    color: var(--muted);
+    margin-left: 2.5rem;
+}
+
+.colon {
+    animation: blink 1s step(1) infinite;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0.2;
+    }
+}
+
+.controls {
+    margin-top: 2rem;
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+button {
+    background: transparent;
+    border: 1px solid var(--muted);
+    color: var(--text);
+    padding: 0.5rem 1.2rem;
+    cursor: pointer;
+    border-radius: 999px;
+    font-size: 0.9rem;
+    transition: all 0.2s ease;
+}
+
+button:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+}
+
+button.active {
+    background: var(--accent);
+    color: var(--panel);
+    border-color: var(--accent);
+}

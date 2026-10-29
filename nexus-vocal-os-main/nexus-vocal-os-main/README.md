@@ -1,4 +1,4 @@
-# Cristian Adán García
+# MrSr.2
 
 Desarrollador Web Jr. | Soporte IT | Entornos Virtuales y Negocios Digitales
 
@@ -71,13 +71,6 @@ Tecnologías utilizadas:
 - Español: Nativo
 - Inglés: Competencia básica profesional
 - Francés: Básico
-
-## Contacto
-
-- Teléfono: +52 552 241-5385
-- Correo: c.garcia.contacto@gmail.com
-- LinkedIn: linkedin.com/in/mrcris
-- Ubicación: Tultitlán, México
 
 ## Archivos del repositorio
 

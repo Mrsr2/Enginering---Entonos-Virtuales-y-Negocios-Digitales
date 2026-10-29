@@ -1,25 +1,23 @@
-# CRISTIAN ADÁN GARCÍA
+# MrSr.2
 
 Desarrollador Web Jr. | Soporte IT | Entornos Virtuales y Negocios Digitales
-
-+52 552 241-5385 | c.garcia.contacto@gmail.com | linkedin.com/in/mrcris | Tultitlán, México
 
 ---
 
 ## PERFIL PROFESIONAL
 
-Estudiante de Ingeniería en Tecnologías de la Información con especialidad en Entornos Virtuales y Negocios Digitales, próximo a realizar prácticas profesionales (ene-abr 2027). Tengo experiencia práctica en desarrollo web, modelado 3D, entornos inmersivos y soluciones digitales orientadas a mejorar procesos operativos.
+Estudiante de Ingeniería en Tecnologías de la Información con especialidad en Entornos Virtuales y Negocios Digitales, próximo a realizar prácticas profesionales (ene-abr 2027). Tengo experiencia en desarrollo de software, modelado 3D, entornos inmersivos y gestión de negocios digitales.
 
-He diseñado y desarrollado un sistema web completo de administración de mobiliario con inventario en tiempo real, contratos automáticos y reportes operativos, utilizando HTML5, CSS, JavaScript, PHP y MySQL. Además, cuento con experiencia en soporte técnico, diagnóstico de fallas, instalación de sistemas de seguridad y mantenimiento de equipos de cómputo.
+He diseñado y desarrollado un sistema web completo de administración de mobiliario con inventario en tiempo real, contratos automáticos y reportes operativos, utilizando HTML5, CSS, JavaScript, PHP y MySQL.
 
-Me interesa contribuir en proyectos de desarrollo web, sistemas de información, soluciones digitales y entornos empresariales, donde pueda aplicar mis habilidades técnicas, mi capacidad analítica y mi disposición para aprender y crecer.
+Me interesa contribuir en proyectos de desarrollo web, sistemas de información, soluciones digitales y entornos empresariales, donde pueda aplicar mis habilidades técnicas, mi capacidad analítica y mi actitud de trabajo en equipo.
 
 ---
 
 ## EXPERIENCIA
 
 ### Servifiestas Alfredos
-Acámbaro, Gto. | may. 2025 – ago. 2025
+May. 2025 – ago. 2025
 
 #### Desarrollador Web — Sistema de Administración de Mobiliario
 - Diseñé y desarrollé una aplicación web para administrar inventario, contratos y asignación de mobiliario por evento.
@@ -29,7 +27,7 @@ Acámbaro, Gto. | may. 2025 – ago. 2025
 - Repositorio: github.com/Mrsr2/Sistema-de-administración-de-mobiliario
 
 ### Developer Market
-Guanajuato, México | 2 años
+2 años
 
 #### Técnico Instalador de CCTV y Sistemas de Seguridad
 - Instalé, configuré y mantuve sistemas de videovigilancia CCTV para clientes comerciales.
@@ -37,7 +35,7 @@ Guanajuato, México | 2 años
 - Documenté procedimientos técnicos y brindé soporte en campo para garantizar continuidad operativa.
 
 ### Compu-Mark
-Acámbaro, Gto. | 5 meses
+5 meses
 
 #### Técnico en Reparación de Equipo de Cómputo
 - Reparé y mantuve equipos de cómputo, atendiendo incidencias de hardware y software.
@@ -121,4 +119,4 @@ Ciberseguridad básica, IA aplicada / Prompt Engineering (en formación)
 
 ## OBJETIVO PROFESIONAL
 
-Integrarme a un equipo de desarrollo digital donde pueda aplicar mis habilidades en programación web, análisis de procesos y soluciones tecnológicas, mientras sigo fortaleciendo mi formación como ingeniero en tecnologías de la información.
+Integrarme a un equipo de desarrollo digital donde pueda aplicar mis habilidades en programación web, análisis de procesos y soluciones tecnológicas, mientras sigo fortaleciendo mi formación profesional.

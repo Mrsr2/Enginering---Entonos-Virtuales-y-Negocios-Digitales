@@ -1,41 +1,88 @@
-# NEXUS_VOCAL_OS (v1.0.0-BETA)
-### Engineering Mastery & Linguistic Refactoring Platform
+# Cristian Adán García
 
-🚀 Vision
-NexusVocal is not a language tutor. It is a Cognitive Engineering Overlay designed for 9th-semester IT Engineering students to transition from B2 to C1 Professional Fluency through high-stakes simulation.
+Desarrollador Web Jr. | Soporte IT | Entornos Virtuales y Negocios Digitales
 
-🛠 Technical Stack (2026 Standard)
-- Frontend: Next.js 16 (App Router), Tailwind CSS 4.0, Framer Motion.
-- Intelligence: Multi-Agent GPT-5 Orchestration (via NexusBrain.ts).
-- Real-time: OpenAI Realtime API (WebRTC) for low-latency voice interaction.
-- Persistence: Supabase (PostgreSQL) for "Linguistic Debt" tracking.
-- Biometrics: Vocal Prosody Analysis (simulated in beta) for stress detection.
+## Perfil profesional
 
-🧠 Core Features
-- Linguistic Debt Tracking: Every grammatical or technical error is logged as "debt." Users must "refactor" their speech in subsequent sessions to clear the debt.
-- Persona Matrix:
-  - ARCHITECT: High pressure, deep technical dive.
-  - RECRUITER: STAR methodology and behavioral coaching.
-  - SCRUM_MASTER: Focus on brevity and sprint velocity.
-  - PEER: Colloquial English, slang, and fast-paced informal dev talk.
-- Bento UI/UX: A minimalist, data-rich dashboard designed to minimize cognitive load while maximizing professional immersion.
+Soy estudiante de Ingeniería en Tecnologías de la Información con especialidad en Entornos Virtuales y Negocios Digitales. Me interesa el desarrollo web, la automatización de procesos, la solución de problemas técnicos y la creación de sistemas digitales funcionales.
 
-📂 File Structure
-- app/layout.tsx: Global providers and metadata.
-- app/page.tsx: Entry point.
-- components/Dashboard.tsx: The "War Room" interactive interface.
-- lib/NexusBrain.ts: Personality logic and pattern recognition.
-- lib/schema.sql: Database architecture for long-term memory.
+He desarrollado soluciones web orientadas a la mejora operativa de negocios, así como proyectos de soporte técnico y ciberseguridad. Mi enfoque combina programación, análisis de procesos y trabajo colaborativo para generar valor real.
 
-🛠 Installation & Usage
-1. Clone the repository.
-2. Run `npm install`.
-3. Configure your `OPENAI_API_KEY` in `.env.local`.
-4. Run `npm run dev`.
+## Objetivo
 
----
-## 👑 Core Engineering & Credits
-- **Lead Software Engineer & System Architect:** Mr24 (mrsr2)
-- **AI Tech Lead & Coach:** Nexus Intelligence Core
+Integrarme a proyectos de desarrollo web, sistemas de información o soluciones digitales donde pueda aplicar mis habilidades técnicas, seguir creciendo como profesional y aportar soluciones útiles para usuarios y negocios.
 
-*"Stop studying English. Start engineering your communication."* 
+## Proyectos destacados
+
+### Sistema de Administración de Mobiliario
+Proyecto desarrollado para gestionar inventario, contratos y asignación de mobiliario por evento.
+
+Características:
+- Inventario en tiempo real
+- Administración de contratos
+- Asignación automatizada de recursos
+- Reportes operativos
+- Organización y control de datos
+
+Tecnologías utilizadas:
+- HTML5
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+## Habilidades
+
+### Desarrollo web
+- HTML5
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+### Soporte IT
+- Diagnóstico y solución de fallas
+- Mantenimiento de hardware y software
+- Instalación de sistemas y aplicaciones
+- Atención técnica presencial
+
+### Entornos virtuales y diseño
+- Unity
+- Blender
+- Modelado 3D
+- Realidad Virtual (VR)
+- UI/UX
+
+### Datos y productividad
+- SQL
+- Excel
+- Análisis básico de datos
+- Power BI y dashboards básicos
+
+## Formación
+
+- Universidad Tecnológica de León, Campus Acámbaro
+  - Ingeniería en Tecnologías de la Información
+  - Especialidad: Entornos Virtuales y Negocios Digitales
+- Técnico Superior Universitario (TSU) en Tecnologías de la Información
+
+## Idiomas
+
+- Español: Nativo
+- Inglés: Competencia básica profesional
+- Francés: Básico
+
+## Contacto
+
+- Teléfono: +52 552 241-5385
+- Correo: c.garcia.contacto@gmail.com
+- LinkedIn: linkedin.com/in/mrcris
+- Ubicación: Tultitlán, México
+
+## Archivos del repositorio
+
+- `Christian_Garcia_CV.md` – CV profesional orientado a desarrollo web
+
+## Estado del repositorio
+
+Este repositorio funciona como espacio de presentación profesional, evidencia de proyectos y material de apoyo para prácticas profesionales, empleo junior y crecimiento académico.

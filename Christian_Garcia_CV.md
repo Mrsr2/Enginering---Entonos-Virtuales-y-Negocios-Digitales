@@ -8,7 +8,11 @@ Desarrollador Web Jr. | Soporte IT | Entornos Virtuales y Negocios Digitales
 
 ## PERFIL PROFESIONAL
 
-Estudiante de Ingeniería en Tecnologías de la Información con especialidad en Entornos Virtuales y Negocios Digitales, próximo a realizar prácticas profesionales (ene-abr 2027). Tengo formación práctica en desarrollo de software, modelado 3D, entornos inmersivos y gestión de negocios digitales. He diseñado y desarrollado una aplicación web completa de administración de mobiliario con inventario en tiempo real, contratos automáticos y reportes operativos, utilizando HTML5, CSS, JavaScript, PHP y MySQL. Combino soporte técnico, pensamiento analítico, creatividad y trabajo en equipo para aportar soluciones funcionales y medibles. Busco oportunidades de estadías, prácticas o empleo junior en desarrollo web, TI, soporte técnico o ciberseguridad.
+Estudiante de Ingeniería en Tecnologías de la Información con especialidad en Entornos Virtuales y Negocios Digitales, próximo a realizar prácticas profesionales (ene-abr 2027). Tengo experiencia práctica en desarrollo web, modelado 3D, entornos inmersivos y soluciones digitales orientadas a mejorar procesos operativos.
+
+He diseñado y desarrollado un sistema web completo de administración de mobiliario con inventario en tiempo real, contratos automáticos y reportes operativos, utilizando HTML5, CSS, JavaScript, PHP y MySQL. Además, cuento con experiencia en soporte técnico, diagnóstico de fallas, instalación de sistemas de seguridad y mantenimiento de equipos de cómputo.
+
+Me interesa contribuir en proyectos de desarrollo web, sistemas de información, soluciones digitales y entornos empresariales, donde pueda aplicar mis habilidades técnicas, mi capacidad analítica y mi disposición para aprender y crecer.
 
 ---
 
@@ -18,9 +22,9 @@ Estudiante de Ingeniería en Tecnologías de la Información con especialidad en
 Acámbaro, Gto. | may. 2025 – ago. 2025
 
 #### Desarrollador Web — Sistema de Administración de Mobiliario
-- Diseñé y desarrollé una aplicación web completa para centralizar el inventario, contratos y asignación de mobiliario por evento.
-- Implementé inventario en tiempo real y reportes operativos para apoyar la toma de decisiones y reducir pérdidas.
-- Automatizé la generación de contratos y la asignación de recursos, reduciendo errores administrativos y agilizando la operación.
+- Diseñé y desarrollé una aplicación web para administrar inventario, contratos y asignación de mobiliario por evento.
+- Implementé control en tiempo real del inventario, así como reportes operativos para apoyar la toma de decisiones.
+- Automatizé la generación de contratos y la asignación de recursos, reduciendo errores administrativos y agilizando procesos.
 - Tecnologías: HTML5, CSS, JavaScript, PHP, MySQL.
 - Repositorio: github.com/Mrsr2/Sistema-de-administración-de-mobiliario
 
@@ -28,35 +32,47 @@ Acámbaro, Gto. | may. 2025 – ago. 2025
 Guanajuato, México | 2 años
 
 #### Técnico Instalador de CCTV y Sistemas de Seguridad
-- Instalé, configuré y mantuve sistemas de videovigilancia CCTV para clientes comerciales, garantizando cobertura y funcionamiento óptimo.
-- Aseguré la seguridad física mediante la instalación de sistemas de vigilancia y protección, reduciendo riesgos de intrusión.
-- Documenté procedimientos técnicos y brindé soporte en campo, asegurando el cumplimiento de normas de seguridad.
+- Instalé, configuré y mantuve sistemas de videovigilancia CCTV para clientes comerciales.
+- Aseguré la cobertura y el correcto funcionamiento del sistema para mejorar la seguridad del entorno.
+- Documenté procedimientos técnicos y brindé soporte en campo para garantizar continuidad operativa.
 
 ### Compu-Mark
 Acámbaro, Gto. | 5 meses
 
 #### Técnico en Reparación de Equipo de Cómputo
-- Reparé y mantuve equipos de cómputo, resolviendo incidencias de hardware y software para usuarios finales.
-- Instalé y configuré aplicaciones de productividad y antivirus, brindando soporte técnico presencial y mejorando la retención de clientes.
+- Reparé y mantuve equipos de cómputo, atendiendo incidencias de hardware y software.
+- Instalé y configuré aplicaciones de productividad y antivirus, mejorando el rendimiento y la seguridad de los equipos.
 
 ---
 
-## DESARROLLO WEB Y TRANSFORMACIÓN DIGITAL
+## PROYECTOS Y SOLUCIONES DIGITALES
 
-Diseño y construyo soluciones web funcionales que automatizan procesos y generan valor operativo.
+### Sistema de Administración de Mobiliario
+Aplicación web desarrollada para la gestión de inventario, contratos y asignación de recursos por evento.
+
+Características principales:
+- control de inventario en tiempo real,
+- generación automática de contratos,
+- asignación eficiente de mobiliario,
+- reportes operativos para seguimiento y análisis.
+
+Tecnologías utilizadas: HTML5, CSS, JavaScript, PHP, MySQL.
 
 ---
 
 ## FORTALEZAS
 
-### Desarrollo Web y Transformación Digital
-Diseño y construyo soluciones web funcionales que automatizan procesos y generan valor operativo.
+### Desarrollo Web
+Diseño y construyo soluciones funcionales orientadas a la experiencia del usuario y al valor del negocio.
 
 ### Pensamiento Analítico
-Aplico pensamiento crítico para diagnosticar fallas, analizar datos y proponer soluciones sustentadas.
+Analizo problemas, identifico oportunidades de mejora y propongo soluciones prácticas y sustentadas.
 
 ### Coordinación de Equipos
-Lidero y colaboro con equipos multidisciplinarios, comunicando ideas técnicas de manera clara y efectiva.
+Trabajo de forma colaborativa con equipos multidisciplinarios, comunicando ideas técnicas con claridad.
+
+### Adaptabilidad
+Aprendo rápido, resuelvo problemas reales y me adapto a nuevas tecnologías y metodologías de trabajo.
 
 ---
 
@@ -81,29 +97,28 @@ sept. 2020 – ago. 2025
 
 ---
 
-## HABILIDADES
+## HABILIDADES TÉCNICAS
 
-Desarrollo Web: HTML5, CSS, JavaScript, PHP, MySQL  
-Entornos Virtuales: Unity, Blender, Modelado 3D, Realidad Virtual (VR), UI/UX  
-Soporte IT: Diagnóstico, Troubleshooting, Reparación Hardware/Software, CCTV  
-Datos: SQL, Excel, Análisis de Datos, Power BI / Dashboards (básico)  
-Metodologías: Scrum, Gestión de Proyectos, Trabajo en Equipo, Documentación Técnica  
-Ciberseguridad básica  
-IA aplicada / Prompt Engineering (en formación)  
-Adaptabilidad y aprendizaje continuo
+### Desarrollo Web
+HTML5, CSS, JavaScript, PHP, MySQL
 
----
+### Entornos Virtuales
+Unity, Blender, Modelado 3D, Realidad Virtual (VR), UI/UX
 
-## INTERESES Y OBJETIVOS
+### Soporte IT
+Diagnóstico, troubleshooting, reparación de hardware y software, CCTV
 
-- Desarrollo web y aplicaciones empresariales
-- Soporte IT y administración de sistemas
-- Ciberseguridad y análisis de vulnerabilidades
-- Diseño de soluciones digitales y transformación de procesos
-- Formación continua y especialización profesional
+### Datos y análisis
+SQL, Excel, análisis de datos, Power BI / dashboards (básico)
+
+### Metodologías y trabajo en equipo
+Scrum, gestión de proyectos, documentación técnica, comunicación efectiva
+
+### Seguridad y formación continua
+Ciberseguridad básica, IA aplicada / Prompt Engineering (en formación)
 
 ---
 
 ## OBJETIVO PROFESIONAL
 
-Contribuir en proyectos donde pueda aplicar mis habilidades de desarrollo web, soporte técnico y análisis de soluciones digitales, mientras continuo fortaleciendo mi formación como ingeniero en tecnologías de la información.
+Integrarme a un equipo de desarrollo digital donde pueda aplicar mis habilidades en programación web, análisis de procesos y soluciones tecnológicas, mientras sigo fortaleciendo mi formación como ingeniero en tecnologías de la información.
